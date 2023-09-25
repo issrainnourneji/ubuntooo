@@ -9,7 +9,7 @@ import java.io.Serializable;
 public class Condidat implements Serializable {
     @Id
     @GeneratedValue
-
+//test
     private int id ;
     private String nom;
     private String prenom;
